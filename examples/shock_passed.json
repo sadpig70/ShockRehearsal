@@ -1,0 +1,8 @@
+{
+  "id": "shock_high_headroom",
+  "priority_rights": {"mineral_a": 100.0, "mineral_b": 60.0},
+  "bloc_volume": 0.95,
+  "refusal_curves": {"rights": 0.92, "volume": 0.90, "coercion": 0.88},
+  "coercion_vector": {"rights": 0.05, "volume": 0.04, "coercion": 0.03},
+  "metadata": {"description": "strong coverage under mild coercion (expected: passed)"}
+}

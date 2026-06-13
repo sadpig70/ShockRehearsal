@@ -1,0 +1,8 @@
+{
+  "id": "shock_severe_coercion",
+  "priority_rights": {"mineral_a": 200.0, "mineral_b": 150.0},
+  "bloc_volume": 0.35,
+  "refusal_curves": {"rights": 0.40, "volume": 0.30, "coercion": 0.25},
+  "coercion_vector": {"rights": 0.45, "volume": 0.55, "coercion": 0.40},
+  "metadata": {"description": "multiple axes insufficient (expected: failed)"}
+}

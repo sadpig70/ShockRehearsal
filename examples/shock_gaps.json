@@ -1,0 +1,8 @@
+{
+  "id": "shock_partial_volume",
+  "priority_rights": {"mineral_a": 140.0, "mineral_b": 90.0},
+  "bloc_volume": 0.65,
+  "refusal_curves": {"rights": 0.78, "volume": 0.72, "coercion": 0.65},
+  "coercion_vector": {"rights": 0.18, "volume": 0.22, "coercion": 0.15},
+  "metadata": {"description": "volume thin under moderate coercion (expected: gaps)"}
+}
